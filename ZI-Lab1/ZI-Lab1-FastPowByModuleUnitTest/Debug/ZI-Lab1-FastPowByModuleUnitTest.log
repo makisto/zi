@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  LibCrypto1.cpp
+C:\Users\user\source\repos\ZI-Lab1\LibCrypto1.cpp(266,35): warning C4244: инициализация: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\ZI-Lab1\LibCrypto1.cpp(267,34): warning C4244: инициализация: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\ZI-Lab1\LibCrypto1.cpp(270,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ZI-Lab1\LibCrypto1.cpp(277,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ZI-Lab1\LibCrypto1.cpp(285,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ZI-Lab1\LibCrypto1.cpp(287,18): warning C4244: аргумент: преобразование "__int64" в "const int", возможна потеря данных
+C:\Users\user\source\repos\ZI-Lab1\LibCrypto1.cpp(287,23): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\user\source\repos\ZI-Lab1\LibCrypto1.cpp(289,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ZI-Lab1\LibCrypto1.cpp(291,27): warning C4244: аргумент: преобразование "__int64" в "const int", возможна потеря данных
+C:\Users\user\source\repos\ZI-Lab1\LibCrypto1.cpp(293,45): warning C4244: аргумент: преобразование "__int64" в "const int", возможна потеря данных
+C:\Users\user\source\repos\ZI-Lab1\LibCrypto1.cpp(294,41): warning C4244: аргумент: преобразование "__int64" в "const int", возможна потеря данных
+  ZI-Lab1-FastPowByModuleUnitTest.cpp
+  Создание кода...
+     Создается библиотека C:\Users\user\source\repos\ZI-Lab1\Debug\ZI-Lab1-FastPowByModuleUnitTest.lib и объект C:\Users\user\source\repos\ZI-Lab1\Debug\ZI-Lab1-FastPowByModuleUnitTest.exp
+  ZI-Lab1-FastPowByModuleUnitTest.vcxproj -> C:\Users\user\source\repos\ZI-Lab1\Debug\ZI-Lab1-FastPowByModuleUnitTest.dll

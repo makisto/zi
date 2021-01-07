@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\user\source\repos\ZI-Lab1\Debug\ZI-Lab1-BabyStepGiantStepUnitTest.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\user\source\repos\ZI-Lab1\Debug\ZI-Lab1-DiffiHellmanUnitTest.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\user\source\repos\ZI-Lab1\Debug\ZI-Lab1-EvklidUnitTest.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\user\source\repos\ZI-Lab1\Debug\ZI-Lab1.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

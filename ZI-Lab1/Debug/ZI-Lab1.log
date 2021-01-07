@@ -1,0 +1,4 @@
+﻿  ZI-Lab1.cpp
+C:\Users\user\source\repos\ZI-Lab1\ZI-Lab1.cpp(146,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\ZI-Lab1\ZI-Lab1.cpp(174,15): warning C4101: cryptograph: неиспользованная локальная переменная
+  ZI-Lab1.vcxproj -> C:\Users\user\source\repos\ZI-Lab1\Debug\ZI-Lab1.exe
